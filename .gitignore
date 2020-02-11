@@ -1,6 +1,7 @@
 
 ###> symfony/framework-bundle ###
 /.env
+/delphi-a0e91bfa3a99.json
 /.env.local
 /.env.local.php
 /.env.*.local
